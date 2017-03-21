@@ -893,3 +893,34 @@ object {
 .gallery-caption {
 	display: block;
 }
+
+#page1 {
+	clear: both;
+	background: #DCDCDC;
+	margin: 10px auto;
+	width: 90%
+}
+
+.site-info1 {
+	clear: both;;
+	margin: 0 auto;
+	background: gray;
+	text-align: center;
+}
+
+#masthead {
+	background: gray;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#main1 {
+	float: left;
+	width: 75%;
+}
+
+#secondary1 {
+	float: left;
+	margin: 50px auto;
+	width: 25%;
+}
