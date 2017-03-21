@@ -923,4 +923,17 @@ object {
 	float: left;
 	margin: 50px auto;
 	width: 25%;
+	color: #228B22;
+}
+
+#secondary1 a {
+	color: 	#0000CD;
+}
+
+.entry-header {
+	color: 	#556B2F;
+}
+
+.entry-header a {
+	color: 	#0000CD;
 }
