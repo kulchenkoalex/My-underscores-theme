@@ -932,8 +932,13 @@ object {
 
 .entry-header {
 	color: 	#556B2F;
+	margin-left: 70px;
 }
 
 .entry-header a {
 	color: 	#0000CD;
+}
+
+.entry-content {
+	margin-left: 20px;
 }
